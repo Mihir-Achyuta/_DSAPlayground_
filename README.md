@@ -15,6 +15,8 @@ npm i -g dsacli
 ```
 
 ## Usage
+![DSAPlaygroundPic!](https://i.imgur.com/3eLzvfq.png)
+
 Once installing the package globally, type in the package name to activate the Command Line Interface with the possible commands here accessible via the help function(can find out all command by typing help at any time):
 
 ```javascript
@@ -51,7 +53,7 @@ function playgroundHelp() {
 ```
 Once navigating to a certain data structure, access all its commands by typing help again and choose a data structure by typing its name in the Command Line Interface and enter a command as instructed after.
 
-Typing an unstored data structure name creates it automatically for you and saves it.
+Typing an unstored data structure name creates it automatically for you.
 
 
 ## Tech Stack
