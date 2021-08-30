@@ -72,3 +72,9 @@ Typing an unstored data structure name creates it automatically for you.
 - Authentication is done using [Firebase](https://firebase.google.com/) and storing all the various data structures and algorithms are done with [Firestore](https://firebase.google.com/docs/firestore).
 
 - The server is [Dockerized](https://www.docker.com/) and is deployed on a [Qovery](https://www.qovery.com/) instance.
+
+## Future Plans
+
+- ⬜️ Convert entire codebase to Typescript
+- ⬜️ Add sorts and searches along with arrays
+- ⬜️ Add "verbose" output explaining what the data structure operation is doing in detail
